@@ -2,7 +2,6 @@
 
 editet
 
-
 будут игнорироваться:
 
 1.Локальные директории терраформа в папке .terraform
@@ -19,6 +18,8 @@ editet
 
 7.Файлы команды `terraform plan -out=tfplan
 
-8.Файлы CLI конфигурации с расширением `.terraformrc  .rc`
+8.Файлы CLI конфигурации с расширением `.terraformrc  .rc
 
+NEW LINE
 
+`
