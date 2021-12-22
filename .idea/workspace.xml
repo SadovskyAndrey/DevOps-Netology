@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b39d76f9-c5de-460f-9272-3e5ce4400603" name="Changes" comment="prepare for merge and rebase">
-      <change afterPath="$PROJECT_DIR$/branching/merge.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branching/rebase.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DevOps-Netology" beforeDir="false" afterPath="$PROJECT_DIR$/DevOps-Netology" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DevOps-Netology/branching/merge.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DevOps-Netology/branching/rebase.sh" beforeDir="false" />
-    </list>
+    <list default="true" id="b39d76f9-c5de-460f-9272-3e5ce4400603" name="Changes" comment="prepare for merge and rebase" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
