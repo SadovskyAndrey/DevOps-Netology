@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="b39d76f9-c5de-460f-9272-3e5ce4400603" name="Changes" comment="prepare for merge and rebase" />
+=======
+    <list default="true" id="b39d76f9-c5de-460f-9272-3e5ce4400603" name="Changes" comment="prepare for merge and rebase fix" />
+>>>>>>> git-merge
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +50,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640206110727</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="prepare for merge and rebase fix">
+      <created>1640206814606</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1640206814606</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -75,6 +86,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="prepare for merge and rebase" />
-    <option name="LAST_COMMIT_MESSAGE" value="prepare for merge and rebase" />
+    <MESSAGE value="prepare for merge and rebase fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="prepare for merge and rebase fix" />
   </component>
 </project>
